@@ -1,4 +1,4 @@
-# V14 Discord Bots
+# V14 Discord Bots (03.11.2023)
 
 - V14 discord botlarını bu repo içerisinde paylaşıcam. Bugüne kadar ne komut yaptıysak gösterdiysek hepsi içinde olacak ( Bazı yerlerden bir kaç alıntı yaptım tabii )
 
